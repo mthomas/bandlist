@@ -1,0 +1,1 @@
+Proof of concept web app that creates a spotify playlists filled with songs from all the bands playing in NYC this week.  Currently everything is hard coded and it barely works.
